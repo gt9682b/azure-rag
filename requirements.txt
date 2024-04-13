@@ -6,3 +6,5 @@ qdrant-client==1.4.0
 # Non-coursera version sentence-transformers==2.3.1
 sentence-transformers==2.2.2
 openai==1.11.1
+python -m venv .venv
+./.venv/bin/pip install -r requirements.txt
